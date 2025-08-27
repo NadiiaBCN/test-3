@@ -1,4 +1,5 @@
-def new():
+def new(a, b):
+    c = a + b
     pass
 
 
